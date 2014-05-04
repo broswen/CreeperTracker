@@ -1,0 +1,5 @@
+name: CreeperTracker
+version: 1.0
+author: broswen
+main: me.broswen.creepertracker.CreeperTracker
+description: a custom creeper spawn egg tracking plugin
